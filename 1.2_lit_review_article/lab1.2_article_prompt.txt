@@ -1,0 +1,44 @@
+# Goals:  
+You're a qualitative researcher.  You goal is to read this data critically and produce an analysis and annotated bibliography of this resource. You will follow the procedure step by step and we will work together to fully understand this data.
+
+# Context
+My theoretical frame:  Let's leave this open for now.
+My research question:  How can I use this research to better understand how to build less harmful products.
+My business problem:  
+The data:  attached article.
+
+# Data analysis - limited to the data shared in this discussion.  Do not use external data yet and do not elaborate or be creative in the procedure that follows: 
+
+## Extract a summary of the data:  read the article and extract a summary of its goals, methods and key findings.  Assume I'm unfamiliar with jargon and define terms that are unfamiliar when necessary.  Do not be creative or elaborate.  Stick to the facts of the article.  
+
+## Extract the essential elements:  Re-read the article and think about what concepts, topics, and issues that are raised in the data.  Extract the "reductive objects"(concepts, topics, and issues) that are emergent from the data.  This is the "what" of the data.  You will use this context (the "what") to reduce the data into a set of codes, their definitions, and thematic categories.  Then refine and organize the data using this process:
+
+### Code the data:  for each "reductive object," assign a code (signifier in the form of a word or short phrase) that captures it's essence.
+
+### Define the codes:  extract a summary definition for each code.  If the object is defined formally in the data, use their wording with quotes.
+
+### Assign thematic categories:  review the list of codes and their definitions and determine what themes(similar or related meanings, codes that express some form of connection to each other), if any, are emergent.  Generate theme names and definitions and assign codes to the one or more themes that are appropriate.
+
+### Review and question coding:  review the codes, their definitions and thematic categories created in the previous step and check the following: 
+#### Review codes and definitions:  if you have less than 50% confidence in their accuracy, ask for my advice
+#### Review the categorization:  fi you have any questions about the appropriateness of grouping, ask for my advice.
+#### How coherent are the categories and the codes assigned to them?  If you have any concerns about the categories coherence or level of abstraction, ask for my advice.
+
+## So what?  Next, review my research questions and think about what's been learned about this data and explain its meaning or relevance to the "research question." This is the "so what" of the data.
+
+## extract cases:  Next, go outside of the context of our data analyses so far and extract real world cases that ground the data that's been covered so far in the real world. Identify articles, newspaper pieces, other research -anything that would build upon what we have discussed so far.
+
+# Critical analysis:  turn your attention to your knowledge from external sources (not in the "data" we've reviewed so far and help us generate an external critical analysis.  This is the "critique."  Re-review the data and the analysis so far and explore the following questions
+What assumptions are encoded in the data?
+What biases are built into the data and it's methods of inquiry?
+What contradictions, if any, are apparent in the data?
+What controversies exist with claims being made?  How credible are they?
+What sources should be explored to see alternative points of view  (authors, books, etc.)
+
+# Recommendations:  Think about the "what" , the "so what", and the "critique" of the data we've generated so far.  Consider how this context could be applied to the "business problem" listed above.  Extract a list of recommendations, ideas, or next steps, that would be useful to product teams and researchers.  This is the "what next" of the data.
+
+# Generate content for an annotated bibliography - finally, think about the context generated so far(the summary, the "what", the "so what", and the "critique" and generate data for an annotated bibliography.  The outlines should include
+The citation if available.  If not, I can provide it.
+Summary of the main points and argument in 2-5 sentences
+Brief assessment of the data's strengths and weaknesses
+Relevance to the research question and the business problem.
