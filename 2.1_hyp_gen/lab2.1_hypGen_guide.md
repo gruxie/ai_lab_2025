@@ -25,18 +25,18 @@ There is [growing research](https://www.microsoft.com/en-us/research/wp-content/
 - RQ for lit review (last lab):  What changes do we need to make to our website to make it easier to find the articles customers need?
 - RQ: for hypothesis gen (this lab)    
 	  
-**Articles used for analysis (used in 1.3)**
-Using Information Scent to Model User Information Needs and Actions on the Web
-News Cues: Information Scent and Cognitive Heuristics
-The Effect of Information Scent on Searching Information  Visualizations of Large Tree Structures 
+**Articles used for analysis (used in 1.3)**  
+[Using Information Scent to Model User Information Needs and Actions on the Web](../1.3_anno_lit_review/info%20scent%20lit/Using_Information_Scent_to_Model_User_Information_.pdf)
+[News Cues: Information Scent and Cognitive Heuristics](../1.3_anno_lit_review/info%20scent%20lit/newscues%20info%20scent%20and%20cog.pdf)
+[The Effect of Information Scent on Searching Information  Visualizations of Large Tree Structures](../1.3_anno_lit_review/info%20scent%20lit/effects%20of%20info%20scent%20on%20searching.pdf)
 
-Prompts
-	• Prompt:  2.1a - Assumptions and hypotheses
-	• Prompt:  2.1b - Socrates has entered the chat
-
-Recommendations
-	• Run the prompt more than once
-	• Dialogue (multi turn conversation) is better than treating it like a search engine.
-
-Worked example
-Lab 2.1 - Basic hypothesis generation
+**Prompts**  
+[Prompt:  2.1a - Assumptions and hypotheses](./Prompt_2.1b_AssumptionsAndhypotheses_critique.txt)  
+[Prompt:  2.1b - Socrates has entered the chat](./Prompt_2.1b_AssumptionsAndhypotheses_critique.txt)  
+  
+**Recommendations**
+- Run the prompt more than once
+- Dialogue (multi turn conversation) is better than treating it like a search engine.  
+ 
+**Worked example**  
+[Lab 2.1 - Basic hypothesis generation](https://chatgpt.com/share/67c9fcf6-4c74-8004-8b4c-1c1d3259d952)
