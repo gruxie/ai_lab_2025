@@ -31,7 +31,7 @@ There is [growing research](https://www.microsoft.com/en-us/research/wp-content/
 [The Effect of Information Scent on Searching Information  Visualizations of Large Tree Structures](../1.3_anno_lit_review/info%20scent%20lit/effects%20of%20info%20scent%20on%20searching.pdf)  
 
 **Prompts**  
-[Prompt:  2.1a - Assumptions and hypotheses](./2.1_hyp_gen/Prompt_2.1a_%20AssumptionsAndhypotheses.txt)  
+[Prompt:  2.1a - Assumptions and hypotheses](./Prompt_2.1a_%20AssumptionsAndhypotheses.txt)  
 [Prompt:  2.1b - Socrates has entered the chat](./Prompt_2.1b_AssumptionsAndhypotheses_critique.txt)  
   
 **Recommendations**
