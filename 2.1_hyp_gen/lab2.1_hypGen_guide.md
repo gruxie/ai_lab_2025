@@ -16,7 +16,7 @@ In this step, you will refine the **research question** from the previous lab (l
 ## Exercise 2: Adding Critical Thinking Dialogue (Tough Love and Dialogue)
 There is [growing research](https://www.microsoft.com/en-us/research/wp-content/uploads/2022/06/Aether-Overreliance-on-AI-Review-Final-6.21.22.pdf) about the hazards of overreliance on AI and its effects on cognitive abilities and poor results. One mitigation is to instruct the LLM to aid in reflection on the output and/or other metacognitive exercises to better challenge assumptions (see link pg. 7) and refine the output. This exercise introduces a follow-up prompt to the one proposed in Lab 2.1 that updates the LLM's instructions to help the user be more critical in their analysis (Socratic method). It works best after having read the documents you want to focus on. It works even better as a dialogue (multi-turn questions) and even better with ChatGPT's voice chat.
 1.  Complete Exercise 1 from this lab (generating hypotheses).
-2.  Run the 2.1b prompt [prompt link](./Prompt_2.1b_ AssumptionsAndhypotheses_critique.txt) to get started - it should start asking you questions!
+2.  Run the 2.1b prompt [prompt link](./Prompt_2.1b_AssumptionsAndhypotheses_critique.txt) to get started - it should start asking you questions!
 3.  Respond to questions and keep the conversation going.
 4.  When you want to quit and finalize the output, type "wrap up."
 
