@@ -2,7 +2,8 @@
 
 This lab will diverge from the continuity of the previous labs and focus on how to build a prompt that provides structure to the application of a specific methodology: Tony Ulwick's "Jobs-to-be-Done."  When run, the LLM should generate a list of JTBD, their desired outcomes and sub jobs along with the LLM assessment of which jobs have the most opportunity.
 
->[!IMPORTANT] This Chain of Thought (CoT) requires the user to supply two inputs under "Assumptions:" 1) the research question and 2) the job performer. These inputs are essential for getting more focused results. When run, the LLM should generate a list of JTBD, their desired outcomes, and sub-jobs along with the LLM assessment of which jobs have the most opportunity.
+> [!IMPORTANT]
+> This Chain of Thought (CoT) requires the user to supply two inputs under "Assumptions:" 1) the research question and 2) the job performer. These inputs are essential for getting more focused results. When run, the LLM should generate a list of JTBD, their desired outcomes, and sub-jobs along with the LLM assessment of which jobs have the most opportunity.
 
 ## Exercise 1: Get an initial analysis
 1) Determine your research question and job performer from the list of examples below (bring your own if you like!).  
