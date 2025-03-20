@@ -1,4 +1,6 @@
-
+arkdown_extensions:
+  - attr_list
+  - 
 <a id="top"></a>
 # Workshop 1:  Study preparation
  
@@ -46,7 +48,11 @@ ___
 
 #### Materials for section 1 ####
 Use the appropriate prompt for section 1:  
-- [Prompt 1 - Option 1](https://google.com{:target="blank"})   
+
+<a href="http://example.com/" target="_blank">Prompt 1</a>
+
+<a=id="prompt1"></a>
+- [Prompt 1 - Option 1](https://google.com){:target="blank"}   
 - [Prompt 2 - Option 2](https://google.com)  
 - [Prompt 3 - Option 3](https://google.com)  
 
