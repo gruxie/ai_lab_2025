@@ -46,24 +46,19 @@ ___
 
 >[!IMPORTANT] Reminders:  AI can hallucinate.  Think of it as a launching-off point (not a final destination).  Double check findings as you proceed and remain skeptical.  
 
-#### Materials for section 1 ####
-Use the appropriate prompt for section 1:  
 
-<a href="http://example.com/" target="_blank">Prompt 1</a>
-
-<a=id="prompt1"></a>
-- [Prompt 1 - Option 1](https://google.com){:target="blank"}   
-- [Prompt 2 - Option 2](https://google.com)  
-- [Prompt 3 - Option 3](https://google.com)  
 
 ### Section 1 Instructions (7 Min)  
 
 1.  Choose your domain area - you will use this for the entire lab!   
-2.  Run the prompt for your scenario for the first time…
-3.  Think aloud!
-4.  Then evaluate the results:  
-5.  Identify 2 or more insights from the literature review that are interesting and relevant to your research question. Add them to the Mural board!
-6.  Choose one paper and drill down on key findings through dialogue.  For example…
+2.  Run the prompt for the research question you've chosen for the workshop (open in new tab):    
+    - [Prompt 1 - Option 1](https://google.com) 
+    - [Prompt 2 - Option 2](https://google.com)  
+    - [Prompt 3 - Option 3](https://google.com)  
+4.  Think aloud!
+5.  Then evaluate the results:  
+6.  Identify 2 or more insights from the literature review that are interesting and relevant to your research question. Add them to the Mural board!
+7.  Choose one paper and drill down on key findings through dialogue.  For example…
     - What hypotheses could we draw from [this paper] that are relevant to my research question?
     - What other research questions does [this paper] raise that are relevant to my research question? 
 1.  Add one or more of the results of the drill down onto the Mural board  
