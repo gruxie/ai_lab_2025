@@ -33,7 +33,7 @@ Format of the workshop (5 min)
 #### Tools and materials you will need
 - This guide
 - Literature (3 pdfs) used in section 2
-- Prompts - links to prompts are included in each section but you can [download them all (.zip) here](https://github.com/gruxie/ai_lab_2025/blob/main/workshop_1/workshop_1.zip).
+- Prompts - links to prompts are included in each section but you can [download them all (.zip) here](https://github.com/gruxie/ai_lab_2025/blob/main/workshop_1/workshop_1.2.zip).
 - LLM - any LLM of your choosing (ChatGPT, Claude, Gemini)
 - List of RQ's, Job performers and contexts (pick 1):
 
