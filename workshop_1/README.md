@@ -186,6 +186,8 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 ### Section 3 Reflection questions (5 min)
 1.  How challenging was it to edit a prepared prompt like this?
 2.  Which is more useful for learning a new domain: Main Jobs, desired outcomes or job steps?
+
+<br>
 Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [JTBD Hypothesis Gen](#section1.3) | [Prompt troubleshooting](#ts) | [Top](#top)
 
 END OF WORKSHOP 1
