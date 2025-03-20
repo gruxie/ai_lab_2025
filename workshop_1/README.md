@@ -1,19 +1,21 @@
 
-2.  Run the prompt for the domain area you've chosen for the workshop (open in new tab).      
-    - [Lit Review - Option 1 - Trustworthy IoT devices](../iot_trust/lit_review_iot.md) 
-    - [Lit Review - Option 2 - Remote vs in-person usability testing](https://google.com)  
-    - [Lit Review - Option 3 - Gamification and adult learning](https://google.com) 
-
-
 <a id="top"></a>
 **Workshop 1:  Study preparation**
 =================================
-  
+
+
+
+
+
+
+
+
+
 Goals:
-- Exercise the prompts from the first module from end to end.
+- Exercise the prompts from the first module end-to-end.
 - Exercise re-working prompts and dialogue.
 - Experiment with working collectively on a single project. 
-
+ 
 Format of the workshop (5 min)
 - We will cover the prompts from three of our previous lab sessions:  literature review, hypothesis generation and JTBD hypothesis generation.  
 - We will work individually on the same research question so we can compare results after each section
@@ -25,15 +27,27 @@ Format of the workshop (5 min)
   - Group reflection (5 min)  
   
    
->[!NOTE]
+>[!NOTE] 
 >These prompts were tested in ChatGPT o1.  It's recommended that you use the best possible LLM (with the most reasoning power) available.  The exercises are not sensitive and are appropriate to use with any public LLM.
 
 #### Tools and materials you will need
 - This guide
-- Prompts - links to prompts are included in each section but you can download them all (.zip) here.
+- Literature (3 pdfs) used in section 2
+- Prompts - links to prompts are included in each section but you can [download them all (.zip) here](https://github.com/gruxie/ai_lab_2025/blob/main/workshop_1/workshop_1.zip).
 - LLM - any LLM of your choosing (ChatGPT, Claude, Gemini)
-- Collaboration board - An online whiteboard for sharing and discussion.  We will capture information in [Mural](https://app.mural.co/t/customerdrivenengineering9401/m/customerdrivenengineering9401/1742226675471/baf7a8942174198f3428c3572512c56e6b1144f2?sender=ude733ec3e37feb743ac63134)  
- 
+- List of RQ's, Job performers and contexts (pick 1):
+
+    **RQ1:  What strategies effectively foster user trust in IoT devices and connected home systems?**  
+    Job performer:  IoT product designer working on a nanny cam.
+
+    **RQ2:  What is the impact of remote versus in-person usability testing on the quality and depth of user feedback?** 
+    Job performer:  Research operations lead working for REI's hardgoods division (tent design)
+
+    **RQ3:  What role does gamification play in motivating sustained usage of e-learning platforms for adult learners?**   
+    Job performer:  Content engineer building web applications to help software developers learn NEW programming languages.
+
+- Collaboration board - An online whiteboard for sharing and discussion.  We will capture information in [Mural](https://www.example.com)
+
 
 ### Prompt Troubleshooting: <a id="ts"> </a>
 - **Shallow results?** - additional prompts to get more out of the results:
@@ -71,16 +85,17 @@ ___
 ### Section 1 Setup (3 min)    
 **Big picture:**  this prompt is meant to give you a starting point when you are new to the material.  The expectation is that you would find articles or materials through this process that you would later evaluate more deeply in order to learn and improve your confidence in the LLM's results.  This is not intended to replace learning about your subject area!
 
->[!IMPORTANT] Reminders:  AI can hallucinate.  Think of it as a launching-off point (not a final destination).  Double check findings as you proceed and remain skeptical.  
+>[!IMPORTANT]
+>Reminders:  AI can hallucinate.  Think of it as a launching-off point (not a final destination).  Double check findings as you proceed and remain skeptical.  
 
 ### Section 1 Instructions (7 Min)  
 
 
 1.  Choose your domain area - you will use this for the entire lab!   
 2.  Run the prompt for the domain area you've chosen for the workshop (open in new tab).      
-    - [Lit Review - Option 1](https://google.com) 
-    - [Lit Review - Option 2](https://google.com)  
-    - [Lit Review - Option 3](https://google.com)  
+    - [Lit Review - Option 1 - Trustworthy IoT devices](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/iot_trust)
+    - [Lit Review - Option 2 - Remote vs in-person usability testing](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/labs)  
+    - [Lit Review - Option 3 - Gamification and adult learning](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/gameificatio_learn)  
 3.  Think aloud!
 4.  Evaluate the results:  
     1.  Identify 2 or more insights from the literature review that are interesting and relevant to your research question. Add them to the Mural board!
@@ -94,7 +109,8 @@ ___
 If this was our project How do we feel about the quality of these results?
 - What concerns do you have about results so far?
 - What would make the results better?
-<br><br>  
+<br><br>
+
 Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [JTBD Hypothesis Gen](#section1.3) | [Prompt troubleshooting](#ts) | [Top](#top)
 <br><br>
 
@@ -116,7 +132,7 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 
 **Big picture:** This prompt will generate a list of assumptions and hypotheses (using the HPF format) based on the context set in the literature review built in <a id="section1.1"> Section 1</a>.  
 
->[!IMPORTANT]
+>[!IMPORTANT] 
 >This prompt requires continuity from the previous step (literature review) for its context. Before running this prompt, ensure you have completed the previous step in Section 1.  You will run this prompt in the SAME chat session!
 
 
@@ -125,9 +141,9 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 1.  Complete the exercise from [Section 1](#section1.1) if you haven't already. 
 2.  Keep the chat session with your results from Section 1 open.  You will use it for the rest of this exercise.
 3.  Open the the hypotheses generation prompt for the research domain you have chosen:       
-    - [Hypothesis generation - Option 1](https://google.com) 
-    - [Hypothesis generation - Option 2](https://google.com)  
-    - [Hypothesis generation - Option 3](https://google.com) 
+    - [Hypothesis generation - Option 1 - Trustworthy IoT devices](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/iot_trust)
+    - [Hypothesis generation- Option 2 - Remote vs in-person usability testing](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/labs)  
+    - [Hypothesis generation - Option 3 - Gamification and adult learning](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/gameificatio_learn) 
 4.  Make any adjustments or edits you would like to the "References section" that includes the research question, job performer, and context for the study. The defaults built into the prompt will work fine - but you have the option to change them. 
 5.  Run the prompt!  It will run in two steps:
     1.  It will generate assumptions first.  When it pauses at this step, you can add assumptions of your own to the LLM's context window. 
@@ -167,8 +183,7 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 ### Section 3 Setup (3 min): 
 **Big picture:**  This prompt will generate a list of main jobs-to-be-done and supporting data (e.g. desired outcomes, sub jobs) for a given job performer.  It also produces recommended questions for a study guide.
   
->[!IMPORTANT]
->Like previous sections, the scaffold of the prompt is provided but in this section, participants will have to make the final edits .  
+>[!IMPORTANT] Like previous sections, the scaffold of the prompt is provided but in this section, participants will have to make the final edits .  
 
 ### Section 3 Instructions (7 Min)  
 
@@ -176,9 +191,9 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
     1.  What job performer should you focus on?
     2.  What research question should use?  This last question should be a refinement of the research question used so far.  The prompt uses the RQ as context for producing it's output.  
 2.  Open the the JTBD prompt for the research domain you have chosen:       
-    - [JTBD Analysis - Option 1](https://google.com) 
-    - [JTBD Analysis - Option 2](https://google.com)  
-    - [JTBD Analysis - Option 3](https://google.com) 
+    - [JTBD Analysis - Option 1 - Trustworthy IoT devices](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/iot_trust)
+    - [JTBD Analysis - Option 2 - Remote vs in-person usability testing](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/labs)  
+    - [JTBD Analysis - Option 3 - Gamification and adult learning](https://github.com/gruxie/ai_lab_2025/tree/main/workshop_1/gameificatio_learn) 
 3.  In the "#ASSUMPTIONS" section of the prompt, apply your edits to the "Research Question(s)" and "Customer or Job performer.  For the sake of the workshop, limit both to one RQ and one job performer.  Use this step to make any additional changes to the "Context" section that you prefer.
 4.  Run the prompt!  It will run all of the analysis in one step.
 5.  Evaluate the results
@@ -193,8 +208,11 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 1.  How challenging was it to edit a prepared prompt like this?
 2.  Which is more useful for learning a new domain: Main Jobs, desired outcomes or job steps?
 
-<br>  
-
+<br><br>  
 Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [JTBD Hypothesis Gen](#section1.3) | [Prompt troubleshooting](#ts) | [Top](#top)
+<br><br>
+
+
+
 
 END OF WORKSHOP 1
