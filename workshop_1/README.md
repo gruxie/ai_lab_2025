@@ -189,6 +189,5 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 
 <br><br>  
 Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [JTBD Hypothesis Gen](#section1.3) | [Prompt troubleshooting](#ts) | [Top](#top)
-<br><br>
 
 END OF WORKSHOP 1
