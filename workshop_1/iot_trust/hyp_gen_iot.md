@@ -1,7 +1,7 @@
 # Research Assumptions and Hypotheses Generation
 
 ## Task Overview
-As an experienced qualitative researcher, analyze the bibliography and research findings from the previous step to generate research assumptions and testable hypotheses for my research qeustion.
+As an experienced qualitative researcher, analyze the bibliography and research findings from the previous step to generate research assumptions and testable hypotheses focused on my research question.
 
 ## Process Instructions
 This is a two-phase task:
@@ -19,7 +19,7 @@ Use the following inputs for your analysis:
 
 ### Instructions
 1. Review the bibliography and analysis from the previous step
-2. Extract key assumptions related to web app navigation improvement
+2. Extract key assumptions related to my research question.
 3. For each assumption:
    - State it clearly and concisely
    - Support it with specific references to the research
@@ -68,7 +68,7 @@ For each customer type, create:
 - Ensure each hypothesis is directly testable
 - Generate 3-5 hypotheses for each type per customer
 - Focus only on insights derived from the research analysis
-- Prioritize hypotheses that directly relate to improving web app navigation
+- Prioritize hypotheses that directly relate to my research question.
 - Include a brief recommendation for how each hypothesis could be tested
 
 ### Deliverable Format
