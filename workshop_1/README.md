@@ -1,7 +1,8 @@
 
 <a id="top"></a>
-# Workshop 1:  Study preparation
-
+**Workshop 1:  Study preparation**
+=================================
+  
 Goals:
 - Exercise the prompts from the first module from end to end.
 - Exercise re-working prompts and dialogue.
@@ -18,7 +19,8 @@ Format of the workshop (5 min)
   - Group reflection (5 min)  
   
    
->[!NOTE] These prompts were tested in ChatGPT o1.  It's recommended that you use the best possible LLM (with the most reasoning power) available.  The exercises are not sensitive and are appropriate to use with any public LLM.
+>[!NOTE]
+>These prompts were tested in ChatGPT o1.  It's recommended that you use the best possible LLM (with the most reasoning power) available.  The exercises are not sensitive and are appropriate to use with any public LLM.
 
 #### Tools and materials you will need
 - This guide
@@ -108,7 +110,8 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 
 **Big picture:** This prompt will generate a list of assumptions and hypotheses (using the HPF format) based on the context set in the literature review built in <a id="section1.1"> Section 1</a>.  
 
->[!IMPORTANT] This prompt requires continuity from the previous step (literature review) for its context. Before running this prompt, ensure you have completed the previous step in Section 1.  You will run this prompt in the SAME chat session!
+>[!IMPORTANT]
+>This prompt requires continuity from the previous step (literature review) for its context. Before running this prompt, ensure you have completed the previous step in Section 1.  You will run this prompt in the SAME chat session!
 
 
 ### Section 2 Instructions (7 Min)  
@@ -158,7 +161,8 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 ### Section 3 Setup (3 min): 
 **Big picture:**  This prompt will generate a list of main jobs-to-be-done and supporting data (e.g. desired outcomes, sub jobs) for a given job performer.  It also produces recommended questions for a study guide.
   
->[!IMPORTANT] Like previous sections, the scaffold of the prompt is provided but in this section, participants will have to make the final edits .  
+>[!IMPORTANT]
+>Like previous sections, the scaffold of the prompt is provided but in this section, participants will have to make the final edits .  
 
 ### Section 3 Instructions (7 Min)  
 
