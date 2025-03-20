@@ -1,4 +1,10 @@
 
+2.  Run the prompt for the domain area you've chosen for the workshop (open in new tab).      
+    - [Lit Review - Option 1 - Trustworthy IoT devices](../iot_trust/lit_review_iot.md) 
+    - [Lit Review - Option 2 - Remote vs in-person usability testing](https://google.com)  
+    - [Lit Review - Option 3 - Gamification and adult learning](https://google.com) 
+
+
 <a id="top"></a>
 **Workshop 1:  Study preparation**
 =================================
