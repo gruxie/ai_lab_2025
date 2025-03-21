@@ -106,8 +106,7 @@ ___
 
 ### Section 1 Reflection questions (5 min)  
 - What, if anything, did you learn that was new to you about this topic?
-If this was our project How do we feel about the quality of these results?
-- What concerns do you have about results so far?
+- How do you feel (pos or neg) about the quality of these results?
 - What would make the results better?
 <br><br>
 
@@ -170,7 +169,7 @@ Quick Nav:  [BibBibliography](#section1.1) | [Hypothesis Gen.](#section1.2) | [J
 ### Section 2 Reflection questions (5 min)  
 - How useful or distinct were the NEW hypotheses (generated in step 8)?  If they need repair, what would you change about the output?
 - Based on what you know, how 'testable' do these hypotheses seem to you?
-If this was our project How do we feel about the quality of these results?
+- If this was our project How do we feel about the quality of these results?
 - If you were running this study on your own, what next steps would you take in study planning?  How would you use these results, if at all?
 
 <br><br>  
