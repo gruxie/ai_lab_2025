@@ -27,5 +27,5 @@ The prompt is designed to consider any study proposal you make and make a judgme
 Constraint:   We have limited telemetry on use of the app but we can see active daily users.  We have two months to bring back results. 
 
 ### Materials
-- [Prompt](../study_design2.md)
+- [Prompt](./study_design2.md)
 - Worked example:  [The weather app](https://github.com/user-attachments/assets/ec4681e5-c103-4816-86fb-c49af28ae838)
