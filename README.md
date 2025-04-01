@@ -18,6 +18,6 @@ This collection features prompts and lab guides from the AI Assisted UXR Lab ses
 5.1 - Data cleaning / removing PII
 5.2 - Thematic analysis (labeling)  
 5.3 - Extracting key findings 
-6.1 - Generating findings / reports
-6.2 - Transforming findings for different audiences  !
+6.1 - Generating findings / reports  
+6.2 - Transforming findings for different audiences 
 
