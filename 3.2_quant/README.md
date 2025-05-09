@@ -1,4 +1,4 @@
-# Lab 3.2 - Quant study design! #
+# Lab 3.2 - Quant study design (Kano example) #
 
 In this exercise, you will use the attached prompts to generate a survey that uses the Kano model to measure how users perceive and prioritize product features. The Kano model helps categorize features into five types—Must-Haves, One-Dimensional, Delighters, Indifferent, and Reverse qualities—based on how users respond to their presence or absence. You’ll generate survey questions that capture both functional and dysfunctional reactions to each feature, as well as assess the importance of each feature to the respondent. The second prompt will guide you through creating the demographic module for the survey to help with segmentation and comparison.  
 
