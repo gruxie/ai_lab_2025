@@ -37,7 +37,8 @@ There's a lot more that goes into Kano analysis that's beyond the scope of this 
 ## Exercise 3:  Build a Qualtrics import file
 Have the LLM re-construct the survey to use the Qualtrics's Advanced Format [(see examples here)](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/)  
  
- 
-Materials:
-- Kano prompt
-- Demographic prompt
+  
+**Materials:**
+- [Kano prompt](./prompt1_kano.md)
+- [Demographic prompt](./prompt2_demo.md)
+- [Worked example](https://chatgpt.com/share/681d2e1d-f248-8004-9d8d-5f246eea8f1f)
