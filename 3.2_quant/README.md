@@ -7,10 +7,10 @@ In this exercise, you will use the attached prompts to generate a survey that us
 ## Study design: ##
 We will use a fictional VS Code study to determine which features among three feature-groups are more or less exciting for C# developers.  
 
-- Feature groups - each group will have two or more individual features that will help researchers determine what groups matter most.  
--- Command line features
--- IDE Basics 
--- IDE look and feel
+- Feature groups - each group will have two or more individual features that will help researchers determine what groups matter most.
+	-Command line features
+	-IDE Basics
+	-IDE look and feel
 
 Kano questions - Each respondent will be asked three questions for each feature:
 Functional - asks how the customer would feel if the feature was present; this dimension shows whether the feature creates excitement, is expected or unnecessary.  
