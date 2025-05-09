@@ -41,5 +41,3 @@ We will review and revise the questions together once they are drafted.
 * Layout adjustment
 
 ---
-
-Let me know if you'd like a version tailored to a specific LLM interface (e.g., OpenAI, Claude, Gemini) or adjusted for a multi-turn conversation.
