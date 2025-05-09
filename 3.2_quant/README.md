@@ -23,10 +23,10 @@ There's a lot more that goes into Kano analysis that's beyond the scope of this 
 [More on the Kano Model (Folding Burritos)](https://foldingburritos.com/blog/kano-model/)   
 [Mastering the Kano Model: Hands-On Tips for Designers & Product Owner!](https://medium.com/@jim-ekanem/mastering-the-kano-model-hands-on-tips-for-designers-product-owners-ca7aff6abe52)  
   
-## Exercise 1 - Create a Kano survey using 
+## Exercise 1 - Create a Kano survey using prepared examples
 1. Review the prompt (it's simple) and the sections for attributes  
-2. Use the attached prompt as your starting point - paste into your favorite LLM  
-3. Run the prompt and respond to the questions the LLM asks you  
+2. Use the attached prompt as your starting point - paste into your favorite LLM.  
+3. Run the prompt and respond to the questions the LLM asks you.  
 4. Review the wording used for the feature descriptions - what would you change about them?  
 
 ## Exercise 2:  build the demographic and profile sections of the survey  
