@@ -41,4 +41,4 @@ Have the LLM re-construct the survey to use the Qualtrics's Advanced Format [(se
 **Materials:**
 - [Kano prompt](./prompt1_kano.md)
 - [Demographic prompt](./prompt2_demo.md)
-- [Worked example](https://chatgpt.com/share/681d2e1d-f248-8004-9d8d-5f246eea8f1f)
+- [Worked example](https://chatgpt.com/share/681e25da-1998-8004-871f-333dfc5dcaf0)
