@@ -23,7 +23,7 @@ We will use a fictional VS Code study to determine which features among three fe
 	
 There's a lot more that goes into Kano analysis that's beyond the scope of this lab.  But, you can learn more here:  
 
-More on the Kano Model (Folding Burritos)[https://foldingburritos.com/blog/kano-model/]
+More on the Kano Model [(Folding Burritos)](https://foldingburritos.com/blog/kano-model/) 
 Mastering the Kano Model: Hands-On Tips for Designers & Product Owner!
 
 	
