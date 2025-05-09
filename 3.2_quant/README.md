@@ -37,9 +37,9 @@ There's a lot more that goes into Kano analysis that's beyond the scope of this 
 3. Review the questions and levels of measurement - have the LLM adjust the level of measurement to suit your preferences.  
 
 ## Exercise 3:  Build a Qualtrics import file
-Have the LLM re-construct the survey to use the Qualtrics's Advanced Format (see examples here)
-
-
+Have the LLM re-construct the survey to use the Qualtrics's Advanced Format [(see examples here)](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/)  
+ 
+ 
 Materials:
 - Kano prompt
 - Demographic prompt
