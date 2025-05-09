@@ -2,20 +2,30 @@
 
 In this exercise, you will use the attached prompts to generate a survey that uses the Kano model to measure how users perceive and prioritize product features. The Kano model helps categorize features into five types—Must-Haves, One-Dimensional, Delighters, Indifferent, and Reverse qualities—based on how users respond to their presence or absence. You’ll generate survey questions that capture both functional and dysfunctional reactions to each feature, as well as assess the importance of each feature to the respondent. The second prompt will guide you through creating the demographic module for the survey to help with segmentation and comparison.  
 
-### Study design: ###
+### Study design: ###  
+
+## Study design: ##
 We will use a fictional VS Code study to determine which features among three feature-groups are more or less exciting for C# developers.  
 
-	• Feature groups - each group will have two or more individual features that will help researchers determine what groups matter most.
-		○ Command line features
-		○ IDE Basics 
-		○ IDE look and feel
-	• Kano questions - Each respondent will be asked three questions for each feature:
-		○ Functional - asks how the customer would feel if the feature was present; this dimension shows whether the feature creates excitement, is expected or unnecessary.  
-		○ Dysfunctional - asks the customer how they would feel if it was absent; this dimension shows if the customer takes it for granted or would be upset if it was missing 
-		○ Importance - these scores help prioritize results independently of the Kano scores.
-	• Demographic and profile questions
-		○ Demo:  Age, gender identity, 
-		○ Profile:  years of professional coding experience
+- Feature groups - each group will have two or more individual features that will help researchers determine what groups matter most.
+-- Command line features
+-- IDE Basics 
+-- IDE look and feel
+
+Kano questions - Each respondent will be asked three questions for each feature:
+Functional - asks how the customer would feel if the feature was present; this dimension shows whether the feature creates excitement, is expected or unnecessary.  
+Dysfunctional - asks the customer how they would feel if it was absent; this dimension shows if the customer takes it for granted or would be upset if it was missing 
+Importance - these scores help prioritize results independently of the Kano scores.
+
+Demographic and profile questions
+Demo:  Age, gender identity, 
+Profile:  years of professional coding experience
+	
+There's a lot more that goes into Kano analysis that's beyond the scope of this lab.  But, you can learn more here:  
+
+More on the Kano Model (Folding Burritos)
+Mastering the Kano Model: Hands-On Tips for Designers & Product Owner![image](https://github.com/user-attachments/assets/c1461385-23b5-4dab-b563-e8b46c3f8361)
+
 	
 There's a lot more that goes into Kano analysis that's beyond the scope of this lab.  But, you can learn more here:  
 
