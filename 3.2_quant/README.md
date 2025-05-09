@@ -20,28 +20,21 @@ We will use a fictional VS Code study to determine which features among three fe
 **Demographic and profile questions**
 - Demo:  Age, gender identity, 
 - Profile:  years of professional coding experience
-	
+  
 There's a lot more that goes into Kano analysis that's beyond the scope of this lab.  But, you can learn more here:  
-
 [More on the Kano Model (Folding Burritos)](https://foldingburritos.com/blog/kano-model/)   
 [Mastering the Kano Model: Hands-On Tips for Designers & Product Owner!](https://medium.com/@jim-ekanem/mastering-the-kano-model-hands-on-tips-for-designers-product-owners-ca7aff6abe52)  
-
-	
-There's a lot more that goes into Kano analysis that's beyond the scope of this lab.  But, you can learn more here:  
-
-More on the Kano Model (Folding Burritos)
-Mastering the Kano Model: Hands-On Tips for Designers & Product Owner  
-
+  
 ## Exercise 1 - Create a Kano survey 
-	1. Review the prompt (it's simple) and the sections for attributes
-	2. Use the attached prompt as your starting point - paste into your favorite LLM
-	3. Run the prompt and respond to the questions the LLM asks you 
-	4. Review the wording used for the feature descriptions - what would you change about them?
+1. Review the prompt (it's simple) and the sections for attributes  
+2. Use the attached prompt as your starting point - paste into your favorite LLM  
+3. Run the prompt and respond to the questions the LLM asks you  
+4. Review the wording used for the feature descriptions - what would you change about them?  
 
-## Exercise 2:  build the demographic and profile sections of the survey
-	1. Review the second prompt and add demographic questions that you prefer
-	2. Run the prompt and respond to the questions the LLM asks you 
-	3. Review the questions and levels of measurement - have the LLM adjust the level of measurement to suit your preferences.
+## Exercise 2:  build the demographic and profile sections of the survey  
+1. Review the second prompt and add demographic questions that you prefer  
+2. Run the prompt and respond to the questions the LLM asks you  
+3. Review the questions and levels of measurement - have the LLM adjust the level of measurement to suit your preferences.  
 
 ## Exercise 3:  Build a Qualtrics import file
 Have the LLM re-construct the survey to use the Qualtrics's Advanced Format (see examples here)
