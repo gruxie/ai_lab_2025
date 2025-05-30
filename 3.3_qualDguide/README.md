@@ -7,7 +7,7 @@ The user provides some basic discussion guide inputs:
 - hypotheses being tested
 - Business context 
 
-This last parameter (business context) can help if you want to explore a JTBD study - but that's not the specific goal today.  
+Note:  This last parameter (business context) can help if you want to explore a JTBD study - but that's not the specific goal today.  
 
 ## Exercise 1:  Generate a discussion guide  
 - Review the prompt and familiarize yourself with the prompt's inputs (audience, RQ, hypotheses, etc.)
@@ -31,6 +31,6 @@ This last parameter (business context) can help if you want to explore a JTBD st
 - Take notes:  based on the interaction with the LLM, what changes would you make to the guide or screener?
 
 
-Materials
+## Materials
 - 3.3 Prompt
 - [Worked example ](https://www.google.com)
