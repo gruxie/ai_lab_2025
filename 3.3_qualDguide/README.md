@@ -1,10 +1,10 @@
 In this exercise, you will use the attached prompt to generate a basic discussion guide for a 1 hour 1:1 interview with a participant.  The goal of this lab is to apply PE to a very common UXR scenario (authoring a discussion guide) but also in exploring how, as an artefact, the discussion guide can help the researcher build other tools like screeners and agents.  
 
 The user provides some basic discussion guide inputs:  
-	• Audience description
-	• Research question
-	• hypotheses being tested 
-	• and business context
+- Audience description
+- Research question
+- hypotheses being tested
+- Business context 
 
 This last parameter (business context) can help if you want to explore a JTBD study - but that's not the specific goal today.
 
