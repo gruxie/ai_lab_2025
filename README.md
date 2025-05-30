@@ -10,7 +10,7 @@ This collection features prompts and lab guides from the AI Assisted UXR Lab ses
 2.2 - [JTBD & Problem hypothesis prompt](https://github.com/gruxie/ai_lab_2025/tree/main/2.2_jtbd_hyp_gen)  
 3.1 - [Research design / research brief](https://github.com/gruxie/ai_lab_2025/tree/main/3.1_researchApproach)  
 3.2 - [Quant design](https://github.com/gruxie/ai_lab_2025/tree/main/3.2_quant)  
-3.3 - [Qual design](https://github.com/gruxie/ai_lab_2025/tree/main/3.3_qualDguide)
+3.3 - [Qual design](https://github.com/gruxie/ai_lab_2025/tree/main/3.3_qualDguide)  
 4.1 - Discussion guide practice with an LLM  
 4.2 - Pilot a discussion guide  
 4.3 - Evaluate a discussion guide II  
