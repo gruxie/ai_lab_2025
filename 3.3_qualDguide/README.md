@@ -32,8 +32,5 @@ Note:  This last parameter (business context) can help if you want to explore a 
 
 
 ## Materials
-- 3.3 Prompt
-- 
-- 
 - [Discussion guide prompt](./Lab3.2_qual.md)
 - [Worked example ](https://chatgpt.com/share/6839e0c0-f4e4-8004-9bb7-40cc0d55b33f)
