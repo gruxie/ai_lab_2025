@@ -17,5 +17,5 @@ This collection features prompts and lab guides from the AI Assisted UXR Lab ses
 This collection features agent instructions that support a range of UXR scenarios.
 
 ## Agent building
-4.1 - [Screener agent](https://github.com/gruxie/ai_lab_2025/tree/main/3.3_screener_agent)  
+4.1 - [Screener agent](https://github.com/gruxie/ai_lab_2025/tree/main/4.1_screener_agent)  
 
