@@ -4,8 +4,7 @@
 - You may need to repeat this scan over time
 - You will want to then use this agent's output with other systems that do more extraction or comparison
 - You need a way of creating an object from this flow that can be
--   Shared with other systems
--     used for subsequent analysis
+-   Shared with other systems / or used for subsequent analysis
 - contribute to a broader orchestration of AI work 
 
 
