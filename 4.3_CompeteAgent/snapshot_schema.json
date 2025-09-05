@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CompetitiveScanCompanySnapshot",
+  "type": "object",
+  "properties": {
+    "company": {"type": "string", "description": "Company legal or commonly used name."},
+    "as_of_date": {"type": "string", "format": "date", "description": "Date this snapshot was observed."},
+    "sources": {
+      "type": "array",
+      "items": {"type": "string", "format": "uri"},
+      "description": "Direct URLs used to substantiate fields in this snapshot."
+    },
+    "profile": {
+      "type": "object",
+      "properties": {
+        "founded": {"type": ["integer","null"]},
+        "employees": {"type": ["integer","null"]},
+        "ownership": {"type": ["string","null"], "description": "public | private | subsidiary (if known)"},
+        "funding": {"type": ["string","null"], "description": "Latest known round/amount or Unknown"}
+      },
+      "additionalProperties": false
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "categories": {"type": "array", "items": {"type": "string"}},
+          "key_features": {"type": "array", "items": {"type": "string"}},
+          "pricing_model": {"type": ["string","null"], "description": "e.g., tiered SaaS, usage-based, per-seat"},
+          "integrations": {"type": "array", "items": {"type": "string"}},
+          "roadmap_signals": {"type": "array", "items": {"type": "string"}}
+        },
+        "required": ["name"],
+        "additionalProperties": false
+      }
+    },
+    "positioning": {
+      "type": "object",
+      "properties": {
+        "segments": {"type": "array", "items": {"type": "string"}},
+        "uvps": {"type": "array", "items": {"type": "string"}},
+        "go_to_market": {"type": ["string","null"]}
+      },
+      "additionalProperties": false
+    },
+    "tech_stack": {
+      "type": "object",
+      "properties": {
+        "languages": {"type": "array", "items": {"type": "string"}},
+        "frameworks": {"type": "array", "items": {"type": "string"}},
+        "cloud": {"type": "array", "items": {"type": "string"}},
+        "datastores": {"type": "array", "items": {"type": "string"}},
+        "infra": {"type": "array", "items": {"type": "string"}, "description": "e.g., Kubernetes, serverless, edge, CDN"},
+        "ml_ai": {"type": "array", "items": {"type": "string"}, "description": "models, services, MLOps tooling"},
+        "security_certifications": {"type": "array", "items": {"type": "string"}, "description": "SOC 2, ISO 27001, FedRAMP, HIPAA, etc."},
+        "deployment": {"type": ["string","null"], "description": "SaaS | on‑prem | hybrid | multi‑cloud"},
+        "proprietary_components": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "strategy_signals": {
+      "type": "object",
+      "properties": {
+        "build_vs_buy": {"type": ["string","null"]},
+        "partnerships": {"type": "array", "items": {"type": "string"}},
+        "mna": {"type": "array", "items": {"type": "string"}, "description": "Recent acquisitions or divestitures"},
+        "patents": {"type": "array", "items": {"type": "string"}},
+        "oss_projects": {"type": "array", "items": {"type": "string"}},
+        "hiring_themes": {"type": "array", "items": {"type": "string"}},
+        "risk_factors": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "customer_voice": {
+      "type": "object",
+      "properties": {
+        "themes_positive": {"type": "array", "items": {"type": "string"}},
+        "themes_negative": {"type": "array", "items": {"type": "string"}},
+        "notable_quotes": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["company", "as_of_date", "sources"],
+  "additionalProperties": false
+}
